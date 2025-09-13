@@ -47,7 +47,7 @@ personal-website/
 - Clean, semantic HTML structure
 
 ## 🔗 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yogesh-mistry)
+- **LinkedIn**: [Yogesh Mistry LinkedIn Profile](https://www.linkedin.com/in/yogeshmistry1981)
 - **Email**: your.email@example.com
 
 ## 📝 License
