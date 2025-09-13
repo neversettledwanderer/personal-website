@@ -3,7 +3,7 @@
 A modern, responsive personal website showcasing my journey from rebuilding in 2022 to AI and automation innovation.
 
 ## 🚀 Live Website
-Visit the live site at: [https://yourusername.github.io/personal-website](https://yourusername.github.io/personal-website)
+Visit the live site at: [https://neversettledwanderer.github.io/personal-website](https://yourusername.github.io/personal-website)
 
 ## 🎯 About
 This website tells my story of professional reinvention, combining project management expertise with AI-driven innovation. Built with clean, modern web technologies for optimal performance and user experience.
